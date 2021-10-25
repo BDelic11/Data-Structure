@@ -38,7 +38,7 @@ int main()
 	char* prezime = prez;
 
 	char BrisiOsobu[MAX_S] = { 0 };
-	char* Brisi = prez;
+	char* Brisi = BrisiOsobu;
 
 	position head = NULL;
 	position TrazenaOsoba = NULL;
