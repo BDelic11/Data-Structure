@@ -1,0 +1,3 @@
+﻿  source.c
+C:\Users\Marin\source\repos\5.zadatak\source.c(67,12): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  5.zadatak.vcxproj -> C:\Users\Marin\source\repos\5.zadatak\Debug\5.zadatak.exe
