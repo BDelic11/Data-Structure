@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\Marin\source\repos\8.zadatak\Source.c(195): warning C4715: 'ObrisiElement': not all control paths return a value
+  8.zadatak.vcxproj -> C:\Users\Marin\source\repos\8.zadatak\Debug\8.zadatak.exe
