@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\Marin\source\repos\vjezba10\Source.c(58,6): warning C4101: 'pop': unreferenced local variable
+C:\Users\Marin\source\repos\vjezba10\Source.c(303): warning C4715: 'SearchList': not all control paths return a value
+  vjezba10.vcxproj -> C:\Users\Marin\source\repos\vjezba10\Debug\vjezba10.exe

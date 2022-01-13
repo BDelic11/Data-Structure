@@ -1,0 +1,3 @@
+zagreb 10000
+split 12000
+solin 5000
