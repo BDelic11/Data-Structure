@@ -1,0 +1,3 @@
+hrvatska.txt
+grcka.txt
+njemacka.txt

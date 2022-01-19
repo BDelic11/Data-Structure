@@ -1,0 +1,2 @@
+berlin 100000
+munchen 200000
